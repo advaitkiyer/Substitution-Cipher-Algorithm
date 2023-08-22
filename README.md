@@ -5,7 +5,6 @@ A basic substitution cipher algorithm for encryption and decryption in C++.
 
 ## Appendix
 
-
 ### Substitution Cipher
 
 The Substitution Cipher is an encryption method that involves replacing each letter in the plaintext with a different letter, determined by a predefined key. It functions by substituting characters to generate the corresponding ciphertext.
