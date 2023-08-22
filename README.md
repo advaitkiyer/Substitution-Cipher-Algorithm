@@ -3,7 +3,7 @@
 
 A basic substitution cipher algorithm for encryption and decryption in C++.
 
-## Appendix
+## 📖 Appendix
 
 ### Substitution Cipher
 
